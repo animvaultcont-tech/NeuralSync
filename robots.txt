@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yourusername.github.io/startup-website/sitemap.xml
+Sitemap: https://animvaultcont-tech.github.io/NeuralSync/sitemap.xml
 
 Crawl-delay: 10
